@@ -1,0 +1,70 @@
+{
+    "detailsArray":[{
+                    "id": "1314",
+                    "name": "Android event wall",
+                    "wallname": "Android public event wall",
+                    "start_date": "1488565800000",
+                    "end_date": "1488652200000",
+                    "privacy": "1",
+                    "wall_type": "2",
+                    "canContributorAddOthers": "Y",
+                    "permissions": {
+                    "admin": "Y",
+                    "contributor": "N",
+                    "subscriber": "N"
+                    },
+                    "contributors": "3",
+                    "stories": "0"
+                    },
+                    {
+                    "id": "1255",
+                    "name": "iOS event wall",
+                    "wallname": "iOS public event wall",
+                    "start_date": "1488565800000",
+                    "end_date": "1488652200000",
+                    "privacy": "1",
+                    "wall_type": "2",
+                    "canContributorAddOthers": "Y",
+                    "permissions": {
+                    "admin": "Y",
+                    "contributor": "N",
+                    "subscriber": "N"
+                    },
+                    "contributors": "3",
+                    "stories": "0"
+                    },
+                    {
+                    "id": "1169",
+                    "name": ".NET event wall",
+                    "wallname": ".NET public event wall",
+                    "start_date": "1488565800000",
+                    "end_date": "1488652200000",
+                    "privacy": "1",
+                    "wall_type": "2",
+                    "canContributorAddOthers": "Y",
+                    "permissions": {
+                    "admin": "Y",
+                    "contributor": "N",
+                    "subscriber": "N"
+                    },
+                    "contributors": "3",
+                    "stories": "0"
+                    },
+                    {
+                    "id": "1314",
+                    "name": "Java event wall",
+                    "wallname": "Java public event wall",
+                    "start_date": "1488565800000",
+                    "end_date": "1488652200000",
+                    "privacy": "1",
+                    "wall_type": "2",
+                    "canContributorAddOthers": "Y",
+                    "permissions": {
+                    "admin": "Y",
+                    "contributor": "N",
+                    "subscriber": "N"
+                    },
+                    "contributors": "3",
+                    "stories": "0"
+                    }]
+}
